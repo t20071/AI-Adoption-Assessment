@@ -10,8 +10,8 @@
  */
 
 const leaderConfig = {
-  name: "Your AI Leader",
-  title: "Head of AI Strategy",
+  name: "Workplace AI Advisor",
+  title: "AI Practice & Enablement Lead",
   photo: "/images/leader-avatar.jpg",
 };
 
