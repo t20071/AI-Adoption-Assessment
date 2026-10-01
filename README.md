@@ -8,6 +8,8 @@ Deep autonomous research across 20+ sources (peer-reviewed papers, industry surv
 ### Phase 2: Web App (in `ai-assessment-app/`)
 A production-ready Next.js app that asks 10 research-backed questions, calculates a score out of 100 across 5 dimensions, and provides personalised recommendations.
 
+**Live Application URL**: [https://ai-adoption-assessment-ten.vercel.app/](https://ai-adoption-assessment-ten.vercel.app/)
+
 ---
 
 ## Key Research Findings

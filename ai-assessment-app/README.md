@@ -1,5 +1,7 @@
 # AI Adoption Assessment
 
+> **Live Application**: [https://ai-adoption-assessment-ten.vercel.app/](https://ai-adoption-assessment-ten.vercel.app/)
+
 A research-backed web application that measures how effectively employees use AI at work. It provides a score out of 100 across 5 dimensions, a personalised message from an AI leader, and evidence-based recommendations for improvement.
 
 ## Features
