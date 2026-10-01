@@ -1,0 +1,25 @@
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Raw asset downloads (100MB+ zip extract)
+saveweb2zip-com-www-idinsight-org/
+
+# Node dependencies and build outputs
+node_modules/
+**/node_modules/
+.next/
+**/.next/
+dist/
+build/
+
+# Secret environment files
+.env*
+!.env.example
+**/.env*
+!**/.env.example
+
+# Operating system files
+.DS_Store
+Thumbs.db

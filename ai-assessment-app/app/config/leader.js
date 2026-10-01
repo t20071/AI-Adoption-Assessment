@@ -1,0 +1,18 @@
+/**
+ * Leader Configuration
+ * 
+ * Edit this file to customize the AI leader whose message appears on the results screen.
+ * - name: Display name of the leader
+ * - title: Their role/title
+ * - photo: Path to their photo (relative to /public)
+ * 
+ * IMPORTANT: Never use a real public figure's name or likeness without permission.
+ */
+
+const leaderConfig = {
+  name: "Your AI Leader",
+  title: "Head of AI Strategy",
+  photo: "/images/leader-avatar.jpg",
+};
+
+export default leaderConfig;
